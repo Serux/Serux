@@ -4,4 +4,4 @@
 - Python, C, Angular, JS 
 - recently I learnt Go
 - Docker, IIS
-- and more :)
+- and MANY more :)
