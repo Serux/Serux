@@ -1,7 +1,6 @@
 # Hi! I'm Sergio
-## I Deal with various technologies and stacks
-- .Net C# and EF are my main
-- Python, C, Angular, JS 
-- recently I learnt Go
-- Docker, IIS
-- and MANY more :)
+## I use technologies and stacks
+- Mainly .Net C# and Python
+- Also C, C++, Angular, JS, PHP, Go...
+- Cibersecurity, Docker, IIS...
+- and MANY more
